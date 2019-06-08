@@ -1,6 +1,6 @@
 Website Porfolio
 - Membuat webiste porfolio yang bagus
-- Warna yang menarik
+- Pakai Warna Pastel
 - UI dan UX yang bagus
 - memakai React
 - membuat mobile app pake React Native
